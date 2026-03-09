@@ -24,7 +24,7 @@
 <hr/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=MitrichevGeorge&theme=tokyonight"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MitrichevGeorge&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MitrichevGeorge&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Thanks;See+u" />
