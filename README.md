@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MitrichevGeorge.MitrichevGeorge" />
 
 ![ezgif-8717043a51371bce](https://github.com/user-attachments/assets/a2cb062a-09fd-483c-a6f1-f82878aa885c)
 
@@ -20,3 +20,13 @@
 14. [getproxy](https://github.com/MitrichevGeorge/getproxy) - получить список прокси
 15. [ic_cheat](https://github.com/MitrichevGeorge/ic_cheat) - чит на infinite craft
 16. [kvart](https://github.com/MitrichevGeorge/kvart) - фрактальчики
+
+<hr/>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=MitrichevGeorge&theme=tokyonight"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MitrichevGeorge&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Thanks;See+u" />
+</h1>
+
