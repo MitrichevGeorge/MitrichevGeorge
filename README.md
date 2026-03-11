@@ -5,7 +5,7 @@
 ## Чё можно посмотреть:
 
 1. [Megawifi](https://github.com/MitrichevGeorge/megawifi) - wifi с mitmproxy
-2. [CFredirect](https://github.com/MitrichevGeorge/cfredir) - перейти на задачу с codeforces по номеру
+2. [CFredirect](https://github.com/MitrichevGeorge/cfredir)<img src="https://github.com/user-attachments/assets/5459b86d-f5f4-4b70-bae1-3621b5176f39" height="19" vertical-align="bottom"> - перейти на задачу с codeforces по номеру
 3. [ExprNumberConverter](https://github.com/MitrichevGeorge/ExprNumberConverter) - обработчик формул при парсинге yaml
 4. [tgcod](https://github.com/MitrichevGeorge/tgcod) - спам попытками входа в тг
 5. [Perpixel-opacity](https://github.com/MitrichevGeorge/perpixel-opacity) - тестовая анимация в LAYERED_FORM
@@ -20,6 +20,14 @@
 14. [getproxy](https://github.com/MitrichevGeorge/getproxy) - получить список прокси
 15. [ic_cheat](https://github.com/MitrichevGeorge/ic_cheat) - чит на infinite craft
 16. [kvart](https://github.com/MitrichevGeorge/kvart) - фрактальчики
+
+![js](https://github.com/user-attachments/assets/5459b86d-f5f4-4b70-bae1-3621b5176f39)
+![cpp](https://github.com/user-attachments/assets/9b547dab-4dec-4c59-baa2-fb0e120127a2)
+![cs](https://github.com/user-attachments/assets/d37558cd-9f69-48cb-9f03-1364e22625a7)
+![py](https://github.com/user-attachments/assets/bc386d87-b532-4c78-b849-919c0f73274a)
+![sh](https://github.com/user-attachments/assets/4a2c8645-ea86-4c42-89a5-6dceb1eab78e)
+Текст перед картинкой <img src="https://github.com/user-attachments/assets/4a2c8645-ea86-4c42-89a5-6dceb1eab78e" width="15" style="vertical-align:top; margin:0 4px;"> текст после.
+
 
 <hr/>
 <div align=center>
