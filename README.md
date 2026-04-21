@@ -1,7 +1,6 @@
 ## Hi there 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MitrichevGeorge.MitrichevGeorge" />
 
-[![Loading...](https://github.com/user-attachments/assets/a2cb062a-09fd-483c-a6f1-f82878aa885c)](https://github.com/MitrichevGeorge)
-
+[<img src="https://github.com/user-attachments/assets/a2cb062a-09fd-483c-a6f1-f82878aa885c" width="100%" alt="Loading...">](https://github.com/MitrichevGeorge)
 ## Чё можно посмотреть:
 
 1. [<img src="https://projbanners.pythonanywhere.com/?text=MegaWiFi&stack=sh&font_size=29&border_width=3&corner_radius=12&border_rgba=100%2C200%2C100%2C1&bg_rgba=10%2C20%2C40%2C0.92&text_rgba=224%2C248%2C255%2C1&padding_x=20&padding_y=12" height="30" align="middle" alt="Banner">](https://github.com/MitrichevGeorge/megawifi) - wifi с mitmproxy
@@ -22,16 +21,25 @@
 16. [<img src="https://projbanners.pythonanywhere.com/?text=kvart&stack=py&font_size=29&border_width=3&corner_radius=12&border_rgba=100%2C200%2C100%2C1&bg_rgba=10%2C20%2C40%2C0.92&text_rgba=224%2C248%2C255%2C1&padding_x=20&padding_y=12" height="30" align="middle" alt="Banner">](https://github.com/MitrichevGeorge/kvart) - фрактальчики
 
 <hr/>
+<div align="center">
+<a href="https://github.com/MitrichevGeorge">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=MitrichevGeorge&theme=tokyonight&following=false&rank=false&_t=1776766418019">
+</a>
+</div>
+
+<hr/>
+<div align="center">
 <a href="https://github.com/MitrichevGeorge">
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=MitrichevGeorge&theme=tokyonight"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MitrichevGeorge&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </div>
 </a>
+</div>
 
 
-<h1 align="center">
+<div align="center">
     <a href="https://github.com/MitrichevGeorge"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Thanks;See+u" /></a>
-</h1>
+</div>
 
 
