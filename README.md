@@ -48,4 +48,6 @@
 <a href="https://github.com/MitrichevGeorge"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&width=435&center=true&vCenter=true&lines=Thanks;See+u" /></a>
 </div>
 
-<img width="100%" alt="footer" src="https://github.com/user-attachments/assets/798c755b-0ec2-4de2-87fc-c105c5494d06" />
+<a href="https://github.com/MitrichevGeorge">
+<img width="100%" alt="footer" src="https://github.com/user-attachments/assets/a84ce85c-e96f-435e-8125-09992ee6b035" />
+</a>
