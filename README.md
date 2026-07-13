@@ -34,17 +34,18 @@
 
 <hr/>
 <div align="center">
-<a href="https://github.com/MitrichevGeorge">
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=MitrichevGeorge&theme=tokyonight"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MitrichevGeorge&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <a href="https://github.com/MitrichevGeorge">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=MitrichevGeorge&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/MitrichevGeorge">
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MitrichevGeorge&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  </a>
 </div>
-</a>
 </div>
-
 
 <div align="center">
-    <a href="https://github.com/MitrichevGeorge"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Thanks;See+u" /></a>
+<a href="https://github.com/MitrichevGeorge"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&width=435&center=true&vCenter=true&lines=Thanks;See+u" /></a>
 </div>
 
-
+<img width="100%" alt="footer" src="https://github.com/user-attachments/assets/798c755b-0ec2-4de2-87fc-c105c5494d06" />
