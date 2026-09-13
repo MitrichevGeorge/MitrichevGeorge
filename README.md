@@ -23,6 +23,7 @@
 18. [<img src="https://projbanners.pythonanywhere.com/?text=tgstories&stack=py&font_size=29&border_width=3&corner_radius=12&border_rgba=100%2C200%2C100%2C1&bg_rgba=10%2C20%2C40%2C0.92&text_rgba=224%2C248%2C255%2C1&padding_x=20&padding_y=12" height="30" align="middle" alt="Banner">](https://github.com/MitrichevGeorge/tgstories) - Картинка в профиле из сторисов Telegram
 19. [<img src="https://projbanners.pythonanywhere.com/?text=bash-papermc&stack=sh&font_size=29&border_width=3&corner_radius=12&border_rgba=100%2C200%2C100%2C1&bg_rgba=10%2C20%2C40%2C0.92&text_rgba=224%2C248%2C255%2C1&padding_x=20&padding_y=12" height="30" align="middle" alt="Banner">](https://github.com/MitrichevGeorge/bash-papermc) - автоматическая установка и запуск papermc(folia)
 20. [<img src="https://projbanners.pythonanywhere.com/?text=images-web-search&stack=py&font_size=29&border_width=3&corner_radius=12&border_rgba=100%2C200%2C100%2C1&bg_rgba=10%2C20%2C40%2C0.92&text_rgba=224%2C248%2C255%2C1&padding_x=20&padding_y=12" height="30" align="middle" alt="Banner">](https://github.com/MitrichevGeorge/images-web-search) - сравнение api для поиска картинок в интернете
+30. [<img src="https://projbanners.pythonanywhere.com/?text=nmtui-catpuccin&stack=py&font_size=29&border_width=3&corner_radius=12&border_rgba=100%2C200%2C100%2C1&bg_rgba=10%2C20%2C40%2C0.92&text_rgba=224%2C248%2C255%2C1&padding_x=20&padding_y=12" height="30" align="middle" alt="Banner">](https://github.com/MitrichevGeorge/nmtui-catpuccin) - тема catpuccin для nmtui
 
 
 <hr/>
